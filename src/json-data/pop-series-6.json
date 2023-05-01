@@ -1,0 +1,1218 @@
+{
+  "set": { "name": "POP Series 6", "setId": "pop6" },
+  "cards": [
+    {
+      "id": "pop6-1",
+      "name": "Bastiodon",
+      "supertype": "Pokémon",
+      "subtypes": ["Stage 2"],
+      "level": "51",
+      "hp": "130",
+      "types": ["Metal"],
+      "evolvesFrom": "Shieldon",
+      "abilities": [
+        {
+          "name": "Protective Wall",
+          "text": "Prevent all damage done to your Benched Pokémon by your opponent's attacks.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Anger Revenge",
+          "cost": ["Metal", "Metal", "Colorless"],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "If Bastiodon was damaged by an attack during your opponent's last turn, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [{ "type": "Fire", "value": "+40" }],
+      "resistances": [{ "type": "Psychic", "value": "-20" }],
+      "retreatCost": ["Colorless", "Colorless", "Colorless"],
+      "convertedRetreatCost": 3,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "1",
+      "artist": "Kazuyuki Kano",
+      "rarity": "Rare",
+      "flavorText": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+      "nationalPokedexNumbers": [411],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/1.png", "large": "https://images.pokemontcg.io/pop6/1_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-1",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 0.98, "mid": 1.58, "high": 2.63, "market": 1.48, "directLow": null } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-1",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0,
+          "lowPrice": 0.9,
+          "trendPrice": 1.16,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 0.9,
+          "avg1": 1.95,
+          "avg7": 1.15,
+          "avg30": 1.14,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-2",
+      "name": "Lucario",
+      "supertype": "Pokémon",
+      "subtypes": ["Stage 1"],
+      "level": "30",
+      "hp": "90",
+      "types": ["Fighting"],
+      "evolvesFrom": "Riolu",
+      "attacks": [
+        {
+          "name": "Feint",
+          "cost": ["Colorless"],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Aura Sphere",
+          "cost": ["Fighting", "Fighting"],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [{ "type": "Psychic", "value": "+20" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "2",
+      "artist": "Kouki Saitou",
+      "rarity": "Rare",
+      "flavorText": "It has the ability to sense the auras of all things. It understands human speech.",
+      "nationalPokedexNumbers": [448],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/2.png", "large": "https://images.pokemontcg.io/pop6/2_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-2",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 2.5, "mid": 3.65, "high": 5.99, "market": 3.63, "directLow": null } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-2",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 6.99,
+          "lowPrice": 2.9,
+          "trendPrice": 6.68,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 4.49,
+          "avg1": 6.99,
+          "avg7": 4.54,
+          "avg30": 2.39,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-3",
+      "name": "Manaphy",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "20",
+      "hp": "70",
+      "types": ["Water"],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": ["Colorless"],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Aqua Ring",
+          "cost": ["Water", "Water"],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Switch Manaphy with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [{ "type": "Lightning", "value": "+20" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "3",
+      "artist": "Atsuko Nishida",
+      "rarity": "Rare",
+      "flavorText": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+      "nationalPokedexNumbers": [490],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/3.png", "large": "https://images.pokemontcg.io/pop6/3_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-3",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 0.1, "mid": 1.09, "high": 3, "market": 1.05, "directLow": null },
+          "holofoil": { "low": 1.98, "mid": 3.5, "high": 6.49, "market": 4, "directLow": null }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-3",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0,
+          "lowPrice": 0.49,
+          "trendPrice": 1.76,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0.19,
+          "lowPriceExPlus": 1,
+          "avg1": 1,
+          "avg7": 1.74,
+          "avg30": 1.27,
+          "reverseHoloAvg1": 0.19,
+          "reverseHoloAvg7": 0.79,
+          "reverseHoloAvg30": 0.79
+        }
+      }
+    },
+    {
+      "id": "pop6-4",
+      "name": "Pachirisu",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "23",
+      "hp": "70",
+      "types": ["Lightning"],
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": ["Colorless"],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thunder Jolt",
+          "cost": ["Lightning"],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If tails, Pachirisu does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [{ "type": "Fighting", "value": "+20" }],
+      "resistances": [{ "type": "Metal", "value": "-20" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "4",
+      "artist": "Atsuko Nishida",
+      "rarity": "Rare",
+      "flavorText": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "nationalPokedexNumbers": [417],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/4.png", "large": "https://images.pokemontcg.io/pop6/4_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-4",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 1, "mid": 2.23, "high": 4.59, "market": 2.45, "directLow": null },
+          "holofoil": { "low": 0.3, "mid": 0.3, "high": 0.3, "market": null, "directLow": null }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-4",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0.8,
+          "lowPrice": 0.2,
+          "trendPrice": 1.04,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0.86,
+          "lowPriceExPlus": 0.5,
+          "avg1": 0.6,
+          "avg7": 0.98,
+          "avg30": 0.81,
+          "reverseHoloAvg1": 1.95,
+          "reverseHoloAvg7": 0.96,
+          "reverseHoloAvg30": 0.8
+        }
+      }
+    },
+    {
+      "id": "pop6-5",
+      "name": "Rampardos",
+      "supertype": "Pokémon",
+      "subtypes": ["Stage 2"],
+      "level": "48",
+      "hp": "120",
+      "types": ["Fighting"],
+      "evolvesFrom": "Cranidos",
+      "attacks": [
+        {
+          "name": "Assurance",
+          "cost": ["Fighting", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "As long as the Defending Pokémon's remaining HP is 60 or less, this attack's base damage is 60 instead of 30."
+        },
+        {
+          "name": "Hasty Headbutt",
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [{ "type": "Grass", "value": "+30" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "5",
+      "artist": "Kazuyuki Kano",
+      "rarity": "Rare",
+      "flavorText": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+      "nationalPokedexNumbers": [409],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/5.png", "large": "https://images.pokemontcg.io/pop6/5_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-5",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 0.75, "mid": 1.25, "high": 2, "market": 1.49, "directLow": 0.75 } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-5",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 1.98,
+          "lowPrice": 0.4,
+          "trendPrice": 1.55,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 0.49,
+          "avg1": 1.98,
+          "avg7": 1.31,
+          "avg30": 0.97,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-6",
+      "name": "Drifloon",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "17",
+      "hp": "60",
+      "types": ["Psychic"],
+      "evolvesTo": ["Drifblim"],
+      "attacks": [
+        {
+          "name": "Blowing Wind",
+          "cost": ["Psychic"],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attached to it on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Ominous Wind",
+          "cost": ["Psychic", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [{ "type": "Darkness", "value": "+10" }],
+      "resistances": [{ "type": "Colorless", "value": "-20" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "6",
+      "artist": "Mitsuhiro Arita",
+      "rarity": "Uncommon",
+      "flavorText": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "nationalPokedexNumbers": [425],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/6.png", "large": "https://images.pokemontcg.io/pop6/6_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-6",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 15.19, "mid": 17, "high": 30, "market": 18.42, "directLow": null } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-6",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 11.95,
+          "lowPrice": 10,
+          "trendPrice": 12.66,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 10,
+          "avg1": 14,
+          "avg7": 10.82,
+          "avg30": 9.06,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-7",
+      "name": "Gible",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "8",
+      "hp": "50",
+      "types": ["Colorless"],
+      "evolvesTo": ["Gabite"],
+      "rules": ["Oran Berry: Remove 1 damage counter from Gible at the end of your turn."],
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "cost": ["Colorless", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [{ "type": "Colorless", "value": "+10" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "7",
+      "artist": "Kouki Saitou",
+      "rarity": "Uncommon",
+      "nationalPokedexNumbers": [443],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/7.png", "large": "https://images.pokemontcg.io/pop6/7_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-7",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 1.49, "mid": 2.7, "high": 4.68, "market": 2.97, "directLow": null },
+          "holofoil": { "low": 2.25, "mid": 4, "high": 6.98, "market": 5.88, "directLow": null }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-7",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0,
+          "lowPrice": 1,
+          "trendPrice": 3.82,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 3.8,
+          "reverseHoloTrend": 1.77,
+          "lowPriceExPlus": 1.99,
+          "avg1": 1.5,
+          "avg7": 3.44,
+          "avg30": 2.89,
+          "reverseHoloAvg1": 2.37,
+          "reverseHoloAvg7": 1.84,
+          "reverseHoloAvg30": 1.53
+        }
+      }
+    },
+    {
+      "id": "pop6-8",
+      "name": "Riolu",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "7",
+      "hp": "60",
+      "types": ["Fighting"],
+      "evolvesTo": ["Lucario"],
+      "attacks": [
+        {
+          "name": "Wild Kick",
+          "cost": ["Fighting"],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [{ "type": "Psychic", "value": "+10" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "8",
+      "artist": "Kouki Saitou",
+      "rarity": "Uncommon",
+      "flavorText": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+      "nationalPokedexNumbers": [447],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/8.png", "large": "https://images.pokemontcg.io/pop6/8_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-8",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 3, "mid": 3.98, "high": 8.95, "market": 5.98, "directLow": null },
+          "holofoil": { "low": 1.79, "mid": 3.72, "high": 10, "market": 9.77, "directLow": null }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-8",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 4.5,
+          "lowPrice": 4.49,
+          "trendPrice": 8.89,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 3,
+          "lowPriceExPlus": 7.99,
+          "avg1": 4.5,
+          "avg7": 5.56,
+          "avg30": 4.37,
+          "reverseHoloAvg1": 3,
+          "reverseHoloAvg7": 2.2,
+          "reverseHoloAvg30": 2.2
+        }
+      }
+    },
+    {
+      "id": "pop6-9",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "13",
+      "hp": "50",
+      "types": ["Lightning"],
+      "evolvesTo": ["Raichu"],
+      "rules": ["Oran Berry: Remove 1 damage counter from Pikachu at the end of your turn."],
+      "attacks": [
+        {
+          "name": "Spark",
+          "cost": ["Lightning", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [{ "type": "Fighting", "value": "+10" }],
+      "resistances": [{ "type": "Metal", "value": "-20" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "9",
+      "artist": "Kagemaru Himeno",
+      "rarity": "Uncommon",
+      "nationalPokedexNumbers": [25],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/9.png", "large": "https://images.pokemontcg.io/pop6/9_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-9",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 18.45, "mid": 22.23, "high": 25.13, "market": 21.23, "directLow": null },
+          "holofoil": { "low": 19.48, "mid": 37.99, "high": 50, "market": 19.05, "directLow": null }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-9",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0,
+          "lowPrice": 16.99,
+          "trendPrice": 28.75,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 22.5,
+          "avg1": 15,
+          "avg7": 26.06,
+          "avg30": 26.23,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-10",
+      "name": "Staravia",
+      "supertype": "Pokémon",
+      "subtypes": ["Stage 1"],
+      "level": "21",
+      "hp": "70",
+      "types": ["Colorless"],
+      "evolvesFrom": "Starly",
+      "evolvesTo": ["Staraptor"],
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "cost": ["Colorless", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Clutch",
+          "cost": ["Colorless", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [{ "type": "Lightning", "value": "+20" }],
+      "resistances": [{ "type": "Fighting", "value": "-20" }],
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "10",
+      "artist": "Masakazu Fukuda",
+      "rarity": "Uncommon",
+      "flavorText": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+      "nationalPokedexNumbers": [397],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/10.png", "large": "https://images.pokemontcg.io/pop6/10_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-10",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 11.45, "mid": 11.45, "high": 11.45, "market": 7.47, "directLow": null } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-10",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 4.9,
+          "lowPrice": 4.9,
+          "trendPrice": 6.48,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 7.99,
+          "avg1": 4.9,
+          "avg7": 5.67,
+          "avg30": 4.88,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-11",
+      "name": "Bidoof",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "10",
+      "hp": "50",
+      "types": ["Colorless"],
+      "evolvesTo": ["Bibarel"],
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": ["Colorless"],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Scavenge",
+          "cost": ["Colorless"],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Search your discard pile for a Trainer card, show it to your opponent, an put it into your hand."
+        }
+      ],
+      "weaknesses": [{ "type": "Fighting", "value": "+10" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "11",
+      "artist": "Mitsuhiro Arita",
+      "rarity": "Common",
+      "flavorText": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+      "nationalPokedexNumbers": [399],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/11.png", "large": "https://images.pokemontcg.io/pop6/11_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-11",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 5.06, "mid": 5.2, "high": 7.99, "market": 7.8, "directLow": null } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-11",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 1.15,
+          "lowPrice": 0.79,
+          "trendPrice": 1.61,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 0.79,
+          "avg1": 1.5,
+          "avg7": 1.31,
+          "avg30": 1.48,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-12",
+      "name": "Buneary",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "11",
+      "hp": "50",
+      "types": ["Colorless"],
+      "evolvesTo": ["Lopunny"],
+      "attacks": [
+        { "name": "Splash", "cost": ["Colorless"], "convertedEnergyCost": 1, "damage": "10", "text": "" },
+        {
+          "name": "Jump Kick",
+          "cost": ["Colorless", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [{ "type": "Fighting", "value": "+10" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "12",
+      "artist": "Kagemaru Himeno",
+      "rarity": "Common",
+      "flavorText": "It slams foes by sharply uncoiling is rolled ears. It stings enough to make a grown-up cry in pain.",
+      "nationalPokedexNumbers": [427],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/12.png", "large": "https://images.pokemontcg.io/pop6/12_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-12",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 1.49, "mid": 2.99, "high": 4.03, "market": 1.53, "directLow": null } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-12",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0.84,
+          "lowPrice": 0.3,
+          "trendPrice": 1.21,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 0.69,
+          "avg1": 0.84,
+          "avg7": 0.81,
+          "avg30": 0.86,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-13",
+      "name": "Cherubi",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "7",
+      "hp": "50",
+      "types": ["Grass"],
+      "evolvesTo": ["Cherrim"],
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "cost": ["Grass"],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Leech Seed",
+          "cost": ["Grass", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Cherubi."
+        }
+      ],
+      "weaknesses": [{ "type": "Fire", "value": "+10" }],
+      "resistances": [{ "type": "Water", "value": "-20" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "13",
+      "artist": "Atsuko Nishida",
+      "rarity": "Common",
+      "flavorText": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+      "nationalPokedexNumbers": [420],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/13.png", "large": "https://images.pokemontcg.io/pop6/13_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-13",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 2.69, "mid": 4.99, "high": 5.39, "market": 4.99, "directLow": null } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-13",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 1.47,
+          "lowPrice": 0.4,
+          "trendPrice": 1.03,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 0.69,
+          "avg1": 1.94,
+          "avg7": 0.94,
+          "avg30": 0.72,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-14",
+      "name": "Chimchar",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "8",
+      "hp": "50",
+      "types": ["Fire"],
+      "evolvesTo": ["Monferno"],
+      "attacks": [
+        { "name": "Scratch", "cost": [], "convertedEnergyCost": 0, "damage": "10", "text": "" },
+        {
+          "name": "Ember",
+          "cost": ["Fire", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads discard a Fire Energy attached to Chimchar."
+        }
+      ],
+      "weaknesses": [{ "type": "Water", "value": "+10" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "14",
+      "artist": "Kagemaru Himeno",
+      "rarity": "Common",
+      "flavorText": "It agilely scales cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "nationalPokedexNumbers": [390],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/14.png", "large": "https://images.pokemontcg.io/pop6/14_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-14",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 0.5, "mid": 1.31, "high": 3.5, "market": 1.42, "directLow": null },
+          "holofoil": { "low": 0.93, "mid": 2, "high": 99.99, "market": 3.76, "directLow": 3.76 }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-14",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0.99,
+          "lowPrice": 0.2,
+          "trendPrice": 0.6,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 1.12,
+          "lowPriceExPlus": 0.6,
+          "avg1": 0.99,
+          "avg7": 0.69,
+          "avg30": 0.62,
+          "reverseHoloAvg1": 1.49,
+          "reverseHoloAvg7": 0.68,
+          "reverseHoloAvg30": 0.64
+        }
+      }
+    },
+    {
+      "id": "pop6-15",
+      "name": "Piplup",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "9",
+      "hp": "60",
+      "types": ["Water"],
+      "evolvesTo": ["Prinplup"],
+      "attacks": [
+        { "name": "Peck", "cost": [], "convertedEnergyCost": 0, "damage": "10", "text": "" },
+        {
+          "name": "Water Spash",
+          "cost": ["Water", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [{ "type": "Lightning", "value": "+10" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "15",
+      "artist": "Atsuko Nishida",
+      "rarity": "Common",
+      "flavorText": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "nationalPokedexNumbers": [393],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/15.png", "large": "https://images.pokemontcg.io/pop6/15_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-15",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 1.98, "mid": 2.28, "high": 6.49, "market": 2.64, "directLow": null },
+          "holofoil": { "low": 0.77, "mid": 1.99, "high": 10.99, "market": 5.61, "directLow": null }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-15",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 1.87,
+          "lowPrice": 0.5,
+          "trendPrice": 1.41,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0.99,
+          "lowPriceExPlus": 0.5,
+          "avg1": 2.75,
+          "avg7": 1.53,
+          "avg30": 1.49,
+          "reverseHoloAvg1": 0.25,
+          "reverseHoloAvg7": 0.68,
+          "reverseHoloAvg30": 1.05
+        }
+      }
+    },
+    {
+      "id": "pop6-16",
+      "name": "Starly",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "8",
+      "hp": "50",
+      "types": ["Colorless"],
+      "evolvesTo": ["Staravia"],
+      "attacks": [
+        { "name": "Gust", "cost": ["Colorless"], "convertedEnergyCost": 1, "damage": "10", "text": "" },
+        {
+          "name": "Quick Attack",
+          "cost": ["Colorless", "Colorless"],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [{ "type": "Lightning", "value": "+10" }],
+      "resistances": [{ "type": "Fighting", "value": "-20" }],
+      "retreatCost": ["Colorless"],
+      "convertedRetreatCost": 1,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "16",
+      "artist": "Masakazu Fukuda",
+      "rarity": "Common",
+      "flavorText": "They flock in great numbers. Though small, they flap their wings with great power.",
+      "nationalPokedexNumbers": [396],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/16.png", "large": "https://images.pokemontcg.io/pop6/16_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-16",
+        "updatedAt": "2023/04/30",
+        "prices": { "normal": { "low": 2.3, "mid": 2.91, "high": 4.99, "market": 2.92, "directLow": 2.39 } }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-16",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 1.43,
+          "lowPrice": 0.69,
+          "trendPrice": 1.28,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0,
+          "lowPriceExPlus": 0.69,
+          "avg1": 0.8,
+          "avg7": 1.34,
+          "avg30": 1.07,
+          "reverseHoloAvg1": 0,
+          "reverseHoloAvg7": 0,
+          "reverseHoloAvg30": 0
+        }
+      }
+    },
+    {
+      "id": "pop6-17",
+      "name": "Turtwig",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic"],
+      "level": "10",
+      "hp": "60",
+      "types": ["Grass"],
+      "evolvesTo": ["Grotle"],
+      "attacks": [
+        { "name": "Tackle", "cost": [], "convertedEnergyCost": 0, "damage": "10", "text": "" },
+        { "name": "Razor Leaf", "cost": ["Grass"], "convertedEnergyCost": 1, "damage": "20", "text": "" }
+      ],
+      "weaknesses": [{ "type": "Fire", "value": "+10" }],
+      "resistances": [{ "type": "Water", "value": "-20" }],
+      "retreatCost": ["Colorless", "Colorless"],
+      "convertedRetreatCost": 2,
+      "set": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "printedTotal": 17,
+        "total": 17,
+        "legalities": { "unlimited": "Legal" },
+        "releaseDate": "2007/09/01",
+        "updatedAt": "2020/05/01 16:06:00",
+        "images": { "symbol": "https://images.pokemontcg.io/pop6/symbol.png", "logo": "https://images.pokemontcg.io/pop6/logo.png" }
+      },
+      "number": "17",
+      "artist": "Masakazu Fukuda",
+      "rarity": "Common",
+      "flavorText": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "nationalPokedexNumbers": [387],
+      "legalities": { "unlimited": "Legal" },
+      "images": { "small": "https://images.pokemontcg.io/pop6/17.png", "large": "https://images.pokemontcg.io/pop6/17_hires.png" },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pop6-17",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "normal": { "low": 0.75, "mid": 1.5, "high": 3.99, "market": 1.78, "directLow": null },
+          "holofoil": { "low": 0.39, "mid": 1.45, "high": 19.99, "market": 2.74, "directLow": 0.64 }
+        }
+      },
+      "cardmarket": {
+        "url": "https://prices.pokemontcg.io/cardmarket/pop6-17",
+        "updatedAt": "2023/04/30",
+        "prices": {
+          "averageSellPrice": 0.5,
+          "lowPrice": 0.35,
+          "trendPrice": 0.66,
+          "germanProLow": 0,
+          "suggestedPrice": 0,
+          "reverseHoloSell": 0,
+          "reverseHoloLow": 0,
+          "reverseHoloTrend": 0.86,
+          "lowPriceExPlus": 0.69,
+          "avg1": 0.5,
+          "avg7": 0.95,
+          "avg30": 1.08,
+          "reverseHoloAvg1": 1,
+          "reverseHoloAvg7": 0.63,
+          "reverseHoloAvg30": 0.77
+        }
+      }
+    }
+  ]
+}
